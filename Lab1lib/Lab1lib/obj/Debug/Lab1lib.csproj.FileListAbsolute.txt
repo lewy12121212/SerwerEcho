@@ -1,0 +1,6 @@
+C:\Users\lewy\source\repos\Lab1lib\Lab1lib\bin\Debug\Lab1lib.dll
+C:\Users\lewy\source\repos\Lab1lib\Lab1lib\bin\Debug\Lab1lib.pdb
+C:\Users\lewy\source\repos\Lab1lib\Lab1lib\obj\Debug\Lab1lib.csproj.CoreCompileInputs.cache
+C:\Users\lewy\source\repos\Lab1lib\Lab1lib\obj\Debug\Lab1lib.dll
+C:\Users\lewy\source\repos\Lab1lib\Lab1lib\obj\Debug\Lab1lib.pdb
+C:\Users\lewy\source\repos\Lab1lib\Lab1lib\obj\Debug\Lab1lib.csprojAssemblyReference.cache
